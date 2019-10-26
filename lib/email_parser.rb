@@ -13,7 +13,7 @@ attr_accessor :emails
 
 
   def parse
-    @emails.uniq 
+    @emails.uniq
   end
 
 end
